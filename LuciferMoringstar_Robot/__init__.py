@@ -33,5 +33,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://t.me/AVACINEMAS_2021)
+➥ Join Our Channel : [Click Me](https://t.me/AVACINEMAS_2021)
 """

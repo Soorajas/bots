@@ -13,7 +13,6 @@ from .Channel import (
 HELP = """
 I AM NOT GOING TO HELP YOU 😃😃
 
-/start :- check am Alive
 
 Hey🤚 
 ഈ ബോട്ട് oru kadha solluduma ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
@@ -21,7 +20,7 @@ Hey🤚
 [🙄ജോയിൻ our channel🙄](https://t.me/AVACINEMAS_2021)
 
 [😍Join our group😍](https://t.me/orukadhasollatumasir)
-
+[Join our channel(https://t.me/AVACINEMAS_2021)
 """
 
 ABOUT = """
